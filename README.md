@@ -11,6 +11,7 @@ If you plan to use it and need support, just open an issue.
 ### caveats
 
 The voice controlled demo requires the slide to be run form Google Chrome to access the speech api. If you use the experimental chromium build for webvr. You will need to define the speech api key form Google in the browser for it to work.
+Other dependencies can be added later.
 
 ### [Slides](https://rabimba.github.io/GraphicalWeb16/)
 ### [Talk] {Will be updated when I get the video from GraphicalWeb}
